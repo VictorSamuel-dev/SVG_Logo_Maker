@@ -43,7 +43,7 @@ const questions = [
         type: "list",
         name: "pixel-image",
         message: "Choose which Pixel Image you would like?",
-        choices: ["Circle", "Square", "Triangle"],
+        choices: ["circle", "square", "triangle"],
     },
 ];
 
@@ -89,17 +89,17 @@ async function init() {
 	
 	//user shape
 	let user_shape;
-	if (user_shape_type === "Square" || user_shape_type === "square") {
-		user_shape = new Square();
-		console.log("User selected Square shape");
+	if (user_shape_type === "square" || user_shape_type === "square") {
+		user_shape = new square();
+		console.log("User selected square shape");
 	}
-	else if (user_shape_type === "Circle" || user_shape_type === "circle") {
-		user_shape = new Circle();
-		console.log("User selected Circle shape");
+	else if (user_shape_type === "circle" || user_shape_type === "circle") {
+		user_shape = new circle();
+		console.log("User selected circle shape");
 	}
-	else if (user_shape_type === "Triangle" || user_shape_type === "triangle") {
-		user_shape = new Triangle();
-		console.log("User selected Triangle shape");
+	else if (user_shape_type === "triangle" || user_shape_type === "triangle") {
+		user_shape = new triangle();
+		console.log("User selected triangle shape");
 	}
 	else {
 		console.log("Invalid shape!");
