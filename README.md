@@ -24,9 +24,10 @@ Node.js, JavaScript
 ## Contributors
 none
 ## Testing
-```
-N/A
-```
+*https://www.loom.com/share/70df77c018f546c8b81b9668882545f2?sid=12e7fcae-2625-4ce4-951a-6c0f2f688f12*
 ## License
       
       Licensed under the MIT license.
+
+## Deployed
+
