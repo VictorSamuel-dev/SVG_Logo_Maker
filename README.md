@@ -22,12 +22,20 @@ Node.js, JavaScript
 * Email - victorsamuel196@gmail.com
 * GitHub - [VictorSamuel-dev](https://github.com/VictorSamuel-dev/)
 ## Contributors
-none
+N/A
+## Images
+* [Circle](./assets/Circle.png)
+* [Square](./assets/Square.png)
+* [Triangle](./assets/Triangle.png)
+
 ## Testing
 *https://www.loom.com/share/70df77c018f546c8b81b9668882545f2?sid=12e7fcae-2625-4ce4-951a-6c0f2f688f12*
+
+## Deployed
+*https://victorsamuel-dev.github.io/SVG_Logo_Maker/*
+
 ## License
       
       Licensed under the MIT license.
 
-## Deployed
-*https://victorsamuel-dev.github.io/SVG_Logo_Maker/*
+
