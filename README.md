@@ -30,4 +30,4 @@ none
       Licensed under the MIT license.
 
 ## Deployed
-
+*https://victorsamuel-dev.github.io/SVG_Logo_Maker/*
